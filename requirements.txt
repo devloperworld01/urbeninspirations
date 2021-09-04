@@ -1,6 +1,6 @@
-Flask==
-Jinja2==
-MarkupSafe==
-Werkzeug==
-itsdangerous==
+Flask
+Jinja2
+MarkupSafe
+Werkzeug
+itsdangerous
 
